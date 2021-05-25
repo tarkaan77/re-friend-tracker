@@ -403,7 +403,7 @@ export class GuiModel {
                         },
                         {
                             "type": "list",
-                            "icon": "fa-calendar",
+                            "icon": "fa-clipboard-check",
                             "color": "wisteria",
                             "search": true,
                             "url": "/friend/:friendKey/activity"
