@@ -262,7 +262,7 @@ export class GuiModel {
                             "name": "Activity",
                             "icon": "fa-clipboard-check",
                             "color": "silver",
-                            "page": "activitiespage",
+                            "page": "activitypage",
                         },
                     ]
                 },
